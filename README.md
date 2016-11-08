@@ -1,2 +1,3 @@
 # AJAX-CRUD table
-test task from employer
+
+Проект на yii2, простая таблица с возможностями CRUD и добавления данных в модальном окне.
